@@ -1,4 +1,4 @@
-# 🏠 Dobber Home Assistant Wallmount Dashboard
+# 🏠 Home Assistant Glass Wallmount Dashboard
 
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Dashboard-41BDF5?logo=home-assistant&logoColor=white)
 ![HACS](https://img.shields.io/badge/HACS-Compatible-41BDF5)
