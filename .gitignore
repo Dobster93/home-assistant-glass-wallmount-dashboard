@@ -1,0 +1,18 @@
+# Home Assistant local/private files
+secrets.yaml
+.storage/
+.homeassistant/
+*.db
+*.db-shm
+*.db-wal
+home-assistant.log*
+*.log
+*.pem
+*.key
+*.crt
+*.token
+.env
+.env.*
+__pycache__/
+.DS_Store
+Thumbs.db
