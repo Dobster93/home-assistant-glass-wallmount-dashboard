@@ -22,10 +22,13 @@ A custom **Home Assistant wallmount dashboard** with a modern glass-style interf
 ### 🛡️ Security
 ![Security dashboard](screenshots/security.png)
 
-### 🌙 Screensaver
-![Screensaver](screenshots/screensaver.png)
+### ⚡ Energy
+![Energy dashboard](screenshots/energy.png)
 
-> ℹ️ Add your own screenshots to the `screenshots/` folder using the filenames above.
+### 🔄 Updates
+![Updates dashboard](screenshots/update.png)
+
+> 📱 Screenshots shown above are from the wallmount dashboard in use.
 
 ---
 
@@ -188,7 +191,8 @@ home-assistant-wallmount-dashboard/
     ├── home.png
     ├── music.png
     ├── security.png
-    └── screensaver.png
+    ├── energy.png
+    └── update.png
 ```
 
 ---
